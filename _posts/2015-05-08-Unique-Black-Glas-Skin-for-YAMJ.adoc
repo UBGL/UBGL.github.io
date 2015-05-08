@@ -1,0 +1,4 @@
+= Unique Black Glas Skin for YAMJ
+
+A new Version of the HTML-Skin for YAMJ and the PopcornHour A100/A110/A200/A210/C200
+will be released
