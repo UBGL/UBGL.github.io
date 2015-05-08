@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "UBGL",
-    "repositoryName": "UBGL.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Saga"
-  }
-}
+{"meta":{"username":"UBGL","repositoryName":"UBGL.github.io","branch":"master"},"site":{"url":"https://UBGL.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//UBGL.github.io/themes/Saga"}}
